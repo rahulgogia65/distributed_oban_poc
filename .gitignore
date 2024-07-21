@@ -24,3 +24,5 @@ oban_poc-*.tar
 
 # Temporary files, for example, from tests.
 /tmp/
+
+/files_storage/
